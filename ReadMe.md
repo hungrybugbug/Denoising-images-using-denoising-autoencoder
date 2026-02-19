@@ -3,10 +3,10 @@ Denoising Autoencoder on CIFAR-10
 --------------------------------------------------
 
 Author: Mohammad Sooban
-Course: [Enter Course Name]
-Instructor: [Enter Instructor Name]
-Institution: [Enter University Name]
-Semester: [Enter Semester]
+Course: [Generative AI]
+Instructor: [Akhtar Jamil]
+Institution: [Fast-Nuces, Islamabad]
+Semester: [8]
 
 --------------------------------------------------
 Project Description
