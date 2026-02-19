@@ -1,0 +1,41 @@
+Prompt 1:
+Explain the task of image denoising using a denoising autoencoder and describe its real-world applications.
+
+Prompt 2:
+Provide Python code to load and preprocess the CIFAR-10 dataset, including normalization and train-validation-test split.
+
+Prompt 3:
+Write code to add Gaussian noise and salt-and-pepper noise to CIFAR-10 images and visualize clean versus noisy samples.
+
+Prompt 4:
+Design and implement a convolutional denoising autoencoder using PyTorch. Explain the encoder, bottleneck, and decoder structure.
+
+Prompt 5:
+Show how to train the denoising autoencoder using MSE loss and Adam optimizer. Include training and validation loss curves.
+
+Prompt 6:
+Provide code to evaluate the trained model using MSE, PSNR, and SSIM metrics.
+
+Prompt 7:
+Generate visualizations showing original, noisy, and reconstructed images in a grid format.
+
+Prompt 8:
+Run experiments using different noise levels and bottleneck sizes. Compare the performance using tables and plots.
+
+Prompt 9:
+Analyze the experimental results and explain how noise level and latent dimension affect reconstruction quality.
+
+Prompt 10:
+Write a discussion section describing model strengths, weaknesses, limitations, and possible improvements.
+
+Prompt 11:
+Prepare a complete research-style report in LNCS LaTeX format including abstract, methodology, results, and conclusion.
+
+Prompt 12:
+Explain common training and visualization errors in PyTorch and provide solutions.
+
+Prompt 13:
+Suggest methods to improve denoising performance such as deeper networks, skip connections, and perceptual loss.
+
+Prompt 14:
+Summarize the overall findings of the denoising autoencoder project for final submission.
